@@ -100,6 +100,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MIT OpenCourseWare – Economics](https://ocw.mit.edu/courses/economics/) – University-level economics courses.
 - [Marginal Revolution University](https://mru.org/) – Short, high-quality economics lessons.
 - [Econometrics Academy](https://sites.google.com/site/econometricsacademy/) – Advanced econometrics lectures.
+- [Econ Academy](https://econ.academy) – Free interactive intro micro and macro course with draggable graphs, draw-the-graph exercises graded automatically, and a central bank simulator.
+
 
 ## Related Awesome Lists
 
